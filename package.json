@@ -1,0 +1,16 @@
+{
+  "id": "googlemeet-capstone-project",
+  "name": "google-meet-franz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/harrytran998/google-meet-franz",
+  "license": "MIT",
+  "author": "Harry Tran <nhattq.coding@gmail.com>",
+  "config": {
+    "serviceURL": "https://meet.google.com/xny-qmvo-ehm",
+    "hasTeamId": "false",
+    "hasCustomUrl": "true",
+    "hasNotificationSound": "true",
+    "hasIndirectMessages": "true"
+  }
+}
